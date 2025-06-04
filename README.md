@@ -1,6 +1,6 @@
 start linter
 ```shell
-cd linter
+cd lint
 uv run python -m main
 ```
 
